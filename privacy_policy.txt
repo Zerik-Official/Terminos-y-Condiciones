@@ -1,0 +1,42 @@
+
+## Política de Privacidad de Octavia
+
+**Fecha de entrada en vigor:** [26/06/2024]
+
+### 1. Información que Recopilamos
+Octavia recopila la siguiente información:
+- **Datos del Usuario:** Nombres de usuario e identificadores de usuario de Discord.
+- **Datos de Uso:** Comandos enviados al Bot, interacciones y actividades relacionadas con el uso del Bot.
+
+### 2. Uso de la Información
+Utilizamos la información recopilada para:
+- Proporcionar y mejorar las funcionalidades del Bot.
+- Monitorizar y analizar el rendimiento del Bot.
+- Responder a problemas técnicos y consultas de los usuarios.
+
+### 3. Compartición de la Información
+No compartimos la información recopilada con terceros, excepto en los siguientes casos:
+- Para cumplir con la ley, regulaciones aplicables, procesos legales o solicitudes gubernamentales.
+- Para proteger la seguridad, derechos o propiedad de los usuarios o el público.
+
+### 4. Seguridad de la Información
+Implementamos medidas de seguridad para proteger la información contra acceso no autorizado, alteración, divulgación o destrucción. Sin embargo, no podemos garantizar la seguridad total de la información transmitida a través de Internet.
+
+### 5. Retención de la Información
+Retenemos la información recopilada durante el tiempo necesario para cumplir con los fines descritos en esta política o según lo requiera la ley.
+
+### 6. Derechos del Usuario
+Tienes derecho a:
+- Acceder y actualizar la información que tenemos sobre ti.
+- Solicitar la eliminación de tu información personal.
+- Oponerte al procesamiento de tu información personal en ciertas circunstancias.
+
+Para ejercer estos derechos, contacta a [tu correo electrónico].
+
+### 7. Cambios en esta Política
+Podemos actualizar esta política de privacidad periódicamente. Los cambios serán efectivos al ser publicados en [el enlace donde estarán alojados]. Es tu responsabilidad revisar esta política regularmente.
+
+### 8. Contacto
+Para preguntas sobre esta política de privacidad, contacta a [octaviakomskaikru06@gmail.com].
+
+Wonkru Company @2024 By Zerik

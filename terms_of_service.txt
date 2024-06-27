@@ -1,0 +1,28 @@
+
+## Términos de Servicio de Octavia
+
+**Fecha de entrada en vigor:** [26/06/2024]
+
+### 1. Aceptación de los Términos
+Al utilizar Octavia ("el Bot"), aceptas cumplir con estos términos de servicio. Si no estás de acuerdo con alguno de estos términos, no uses el Bot.
+
+### 2. Descripción del Servicio
+Octavia es un bot de música que permite a los usuarios reproducir música en canales de voz de Discord. El Bot ofrece funcionalidades como búsqueda de canciones, creación de listas de reproducción, y control de reproducción.
+
+### 3. Uso del Bot
+- **Uso Permitido:** Puedes utilizar Octavia para reproducir música en tus servidores de Discord según las funcionalidades ofrecidas.
+- **Prohibiciones:** No debes utilizar Octavia para violar leyes aplicables, infringir derechos de terceros, o realizar actividades malintencionadas como enviar spam, distribuir contenido malicioso, o suplantar a otros.
+
+### 4. Modificaciones a los Términos
+Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios serán efectivos al ser publicados en [el enlace donde estarán alojados]. Es tu responsabilidad revisar estos términos regularmente.
+
+### 5. Limitación de Responsabilidad
+Octavia se ofrece "tal cual" y "según disponibilidad". No garantizamos que el Bot esté libre de errores, ininterrumpido, o que cumpla con tus expectativas. No somos responsables por daños indirectos, incidentales, especiales o consecuentes que resulten del uso del Bot.
+
+### 6. Terminación del Servicio
+Podemos suspender o terminar tu acceso a Octavia en cualquier momento sin previo aviso si consideramos que has violado estos términos.
+*Cualquier uso no autorizado de la aplicación para fines ajenos a su creación se aplicará el derecho de admisión.
+### 7. Contacto
+Para cualquier pregunta o comentario sobre estos términos, puedes contactarnos en [octaviakomskaikru06@gmail.com].
+
+Wonkru Company @2024 By Zerik
